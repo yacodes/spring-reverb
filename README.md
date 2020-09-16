@@ -2,9 +2,9 @@
 
 ## Inspiration
 ### Tutorials
-- [Using Op Amps to Interface to Spring-type Reverb Units](http://roymal.tripod.com/reverb.htm)
-- [DIY Spring Reverb](https://www.instructables.com/id/DIY-Spring-Reverb/)
-- [a tiny home-brew spring reverb](http://www.astlab.de/springReverb/springReverb.shtml)
+- [a tiny home-brew spring reverb ⭐⭐⭐⭐⭐](http://www.astlab.de/springReverb/springReverb.shtml)
+- [Using Op Amps to Interface to Spring-type Reverb Units ⭐⭐⭐⭐](http://roymal.tripod.com/reverb.htm)
+- [DIY Spring Reverb ⭐⭐⭐](https://www.instructables.com/id/DIY-Spring-Reverb/)
 
 ### Schematics
 ![Spring Reverb Schematics 1](https://i.pinimg.com/originals/3f/c0/d3/3fc0d3f261c52df672ce2ec0ef6559ef.jpg)
